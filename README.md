@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=RAMraghuram&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=RAMraghuram&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAMraghuram&layout=compact" />
+</div>
+
 <!--
 **RAMraghuram/RAMraghuram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
